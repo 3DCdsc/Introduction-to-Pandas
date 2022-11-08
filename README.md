@@ -1,5 +1,5 @@
 # Introduction-to-Pandas
-Introduction to Pandas materials for Data Driven World Clinics 2022.
+Introduction to Pandas materials for Data Driven World Clinic 2022, a series of coding clinics aimed at helping Singapore University of Technology and Design students with the course 'Data Driven World'.
 
 ## Materials
 - Notebook that we will be going through during the class. Solutions will be uploaded after the clinic
