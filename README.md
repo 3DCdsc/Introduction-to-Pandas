@@ -9,7 +9,7 @@ Introduction to Pandas materials for Data Driven World Clinic 2022, a series of 
 ## Credits
 Written by: [Beckham Wee](https://www.linkedin.com/in/beckham-wee/)
 
-Quiz by: Thao Vy Dinh
+Quiz by: [Thao Vy Dinh](https://www.linkedin.com/in/vy-dinh-22b990148/)
 
 References: Quantopian Lecture Series, pandas Documentation
 
